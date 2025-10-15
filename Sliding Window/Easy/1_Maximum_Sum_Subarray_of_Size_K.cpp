@@ -8,18 +8,22 @@ using namespace std;
 
 int Maximum_Subarray_Sum(vector<int> &arr, int k)
 {
-    int sum = 0, result = 0;
+    if (arr.size() < k)
+        return 0;
+        
+    int sum = 0;
     for (int i = 0; i < k; i++)
         sum += arr[i];
+    int result = sum;
     int i = 0, j = k;
     while (j < arr.size())
     {
-        result = max(sum, result);
         sum = sum - arr[i] + arr[j];
+        result = max(result, sum);
         i++;
         j++;
     }
-    return sum;
+    return result;
 }
 
 // Your code here
