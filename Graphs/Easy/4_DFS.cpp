@@ -14,16 +14,16 @@ void dfs(int node, vector<int> adjMat[], vector<int> &vis, vector<int> &result)
     {
         // Visit all unvisited neighbors
         if (!vis[i])
-            dfs(i, adjMat, vis, result);
+            dfs(i, adjMat, vis, result); // recursively call dfs on neighbour
     }
 }
 
 vector<int> DFS_Traversal(vector<int> adjMat[], int n)
 {
-    vector<int> vis(n, 0);
-    int start = 0;
-    vector<int> result;
-    dfs(start, adjMat, vis, result);
+    vector<int> vis(n, 0); // Visited array to mark visited ndoes
+    int start = 0; // start dfs from node 0
+    vector<int> result; // Array to store result of DFS Traversal
+    dfs(start, adjMat, vis, result); // Call to recursive dfs function
     return result;
 }
 
