@@ -9,26 +9,29 @@ The plan is **phase-wise**:
 1. Easy problems → Foundation
 2. Medium problems → Core concepts
 3. Hard problems → High-level problem solving
+
 ---
 
 ## 🔑 Key Features
 
-* **147 problems** divided by **topic and difficulty**
-* **Phase-wise plan** for **Easy → Medium → Hard**
-* **Buffer & revision days** to ensure completeness
-* **Covers all major topics**: Arrays, Strings, Sorting, Binary Search, Recursion, DP, Graphs, Trees, Backtracking, Greedy, Bit Manipulation
-* **Ready for FAANG & top tech companies interviews**
+- **171 problems** divided by **topic and difficulty**
+- **Phase-wise plan** for **58 Easy Problems -> 60 Medium Problems -> 53 Hard Problems**
+- **Buffer & revision days** to ensure completeness
+- **Covers all major topics**: Arrays, Strings, Sorting, Binary Search, Recursion, DP, Graphs, Trees, Backtracking, Greedy, Bit Manipulation
+- **Ready for FAANG & top tech companies interviews**
 
 ---
 
 ## 📌 How to Use
 
 1. **Clone this repository**
+
 ```bash
 git clone https://github.com/prashant-sagar-shakya/Interview-Coding-Problems.git
 ```
 
 2. **Navigate to topic folder**
+
 ```bash
 cd Arrays/Easy
 ```
@@ -43,10 +46,10 @@ cd Arrays/Easy
 
 ## 🔗 References
 
-* [LeetCode](https://leetcode.com/)
-* [GeeksforGeeks](https://www.geeksforgeeks.org/)
-* [Codeforces](https://codeforces.com/)
-* [USACO Guide](https://usaco.guide/)
+- [LeetCode](https://leetcode.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [Codeforces](https://codeforces.com/)
+- [USACO Guide](https://usaco.guide/)
 
 ---
 
@@ -54,6 +57,6 @@ cd Arrays/Easy
 
 This repo is primarily for **personal mastery**, but feel free to:
 
-* Suggest **additional high-quality problems**
-* Add **solutions in Python/C++/Java**
-* Improve **topic-wise organization**
+- Suggest **additional high-quality problems**
+- Add **solutions in Python/C++/Java**
+- Improve **topic-wise organization**
