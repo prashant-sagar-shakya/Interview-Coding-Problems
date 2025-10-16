@@ -10,8 +10,6 @@ using namespace std;
 ll Factorial_Iterative(int n)
 {
     ll fact = 1;
-    if (n == 1 || n == 0)
-        return fact;
     for (int i = 2; i <= n; i++)
         fact *= i;
 

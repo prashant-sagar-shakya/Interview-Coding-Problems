@@ -9,10 +9,9 @@ using namespace std;
 
 ll Factorial_Recursive(int n)
 {
-    int fact = 1;
     if (n == 0 || n == 1)
-        return fact;
-    return fact * Factorial_Recursive(n - 1);
+        return 1;
+    return n * Factorial_Recursive(n - 1);
 }
 
 // Your code here
