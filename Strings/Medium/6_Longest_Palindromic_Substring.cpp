@@ -48,6 +48,8 @@ string LongestPalindrome(const string &s)
 void Solve()
 {
     string s;
+    cin >> s;
+    cout << LongestPalindrome(s);
 }
 
 // Driver code
