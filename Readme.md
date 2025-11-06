@@ -14,8 +14,8 @@ The plan is **phase-wise**:
 
 ## 🔑 Key Features
 
-- **171 problems** divided by **topic and difficulty**
-- **Phase-wise plan** for **58 Easy Problems -> 60 Medium Problems -> 53 Hard Problems**
+- **215 problems** divided by **topic and difficulty**
+- **Phase-wise plan** for **62 Easy Problems -> 91 Medium Problems -> 62 Hard Problems**
 - **Buffer & revision days** to ensure completeness
 - **Covers all major topics**: Arrays, Strings, Sorting, Binary Search, Recursion, DP, Graphs, Trees, Backtracking, Greedy, Bit Manipulation
 - **Ready for FAANG & top tech companies interviews**
@@ -43,13 +43,6 @@ cd Arrays/Easy
 5. **Use the buffer days** for revision and missed questions
 
 ---
-
-## 🔗 References
-
-- [LeetCode](https://leetcode.com/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [Codeforces](https://codeforces.com/)
-- [USACO Guide](https://usaco.guide/)
 
 ---
 
