@@ -2,6 +2,8 @@
 
 ![DSA Banner](https://img.shields.io/badge/DSA-Preparation-orange) ![Interview Ready](https://img.shields.io/badge/Interview-Ready-blue)
 
+![Thumbnail](logo.png)
+
 This repository contains a **complete, structured roadmap for mastering Data Structures & Algorithms (DSA)** and preparing for **tech interviews** at FAANG & other top companies. It includes **Arrays, Strings, Sorting, Two Pointers, Sliding Window, Recursion, Binary Search, Greedy, Backtracking, Trees, Graphs, Dynamic Programming, and Bit Manipulation** problems.
 
 The plan is **phase-wise**:
@@ -14,8 +16,8 @@ The plan is **phase-wise**:
 
 ## 🔑 Key Features
 
-- **215 problems** divided by **topic and difficulty**
-- **Phase-wise plan** for **62 Easy Problems -> 91 Medium Problems -> 62 Hard Problems**
+- **248 problems** divided by **topic and difficulty**
+- **Phase-wise plan** for **61 Easy Problems -> 114 Medium Problems -> 73 Hard Problems**
 - **Buffer & revision days** to ensure completeness
 - **Covers all major topics**: Arrays, Strings, Sorting, Binary Search, Recursion, DP, Graphs, Trees, Backtracking, Greedy, Bit Manipulation
 - **Ready for FAANG & top tech companies interviews**
