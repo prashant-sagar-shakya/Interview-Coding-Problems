@@ -70,6 +70,21 @@ vector<string> ratInMaze(vector<vector<int>> &maze)
 // Your code here
 void Solve()
 {
+    int n;
+    cin >> n;
+    vector<vector<int>> maze(n, vector<int>(n));
+    for (int i = 0; i < n; i++)
+        for (int j = 0; j < n; j++)
+            cin >> maze[i][j];
+    vector<string> ans = ratInMaze(maze);
+    if (ans.empty())
+        cout << -1 << "\n";
+    else
+    {
+        for (auto &p : ans)
+            cout << p << " ";
+        cout << "\n";
+    }
 }
 
 // Driver code
